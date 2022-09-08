@@ -1,0 +1,13 @@
+cargo new [project_name] --bin //creates a folder for your project
+cd [project_name]	       //to go to the right folder, obviously!
+
+//make sure the Cargo.toml file is correct
+//open src/main.rs
+
+//in your project directory:
+
+cargo build	//compile your code
+cargo check	//checks for errors in your code
+cargo run	//compile + run
+
+cargo build --release	//creates an executable for release (more optimized)
