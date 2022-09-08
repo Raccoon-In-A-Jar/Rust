@@ -1,0 +1,6 @@
+[package]
+name = "calculage"
+version = "0.1.0"
+authors = ["Pizou <223616@supinfo.com>"]
+
+[dependencies]
